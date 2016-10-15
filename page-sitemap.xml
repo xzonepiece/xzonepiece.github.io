@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>https://xzonepiece.github.io/photos.html</loc>
+        <lastmod>2016-10-15T08:33:09.451Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://xzonepiece.github.io/tags/</loc>
         <lastmod>2016-10-13T13:06:13.513Z</lastmod>
         <changefreq>weekly</changefreq>
