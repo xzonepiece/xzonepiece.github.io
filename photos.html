@@ -55,9 +55,7 @@
                     for (var i = 0; i < images.length; i++) {
                         var image = images[i].match(/src="(.*?)"/i)[1]
                         $('#mygallery').append('<a href="' + link + '">' + '<img alt="' + title + '" src="' + image + '"/>' + '</a>');
-                        $("#mygallery").justifiedGallery() {
-
-                        }
+                        $("#mygallery").justifiedGallery()
                     }
                 }
             })
@@ -196,7 +194,8 @@
                     </div>
                 </div>
             </aside>
-            <section id="mygallery" class="justified-gallery">
+            <section id="main">
+                <div id="mygallery" class="justified-gallery"></div>
             </section>
             <aside id="sidebar">
                 <div class="widget-wrap">
